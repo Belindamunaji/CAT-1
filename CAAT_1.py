@@ -83,7 +83,23 @@ staff = [
     SalesPerson("Alvin", 500000),
     SalesPerson("Belinda", 8000000),
     SalesPerson("Luther", 450000),
-    SalesPerson("Anita", 4560000)
+    SalesPerson("Anita", 4560000),
+    SalesPerson("Ida", 300000),
+    SalesPerson("Josephine", 150000),
+    SalesPerson("Brown", 100000),
+    SalesPerson("Cole", 700000),
+    SalesPerson("Betty", 200000),
+    SalesPerson("Shadrack", 10000),
+    SalesPerson("Joyce", 850000),
+    SalesPerson("Mary", 360000),
+    SalesPerson("Marion", 520000),
+    SalesPerson("Sharon", 180000),
+    SalesPerson("Lucy", 270000),
+    SalesPerson("Munaji", 460000),
+    SalesPerson("Teicy", 250000),
+    SalesPerson("Abdul", 320000),
+    SalesPerson("Kodhek", 400000),
+    SalesPerson("Shanice", 510000)
 ]
 
 t_comm = 0
